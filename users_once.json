@@ -1,0 +1,16 @@
+[
+  {
+    "username": "once001",
+    "password": "123456",
+    "permission": {
+      "type": "once"
+    }
+  },
+  {
+    "username": "once002",
+    "password": "abc123",
+    "permission": {
+      "type": "once"
+    }
+  }
+]
