@@ -1,0 +1,16 @@
+[
+  {
+    "username": "day001",
+    "password": "111111",
+    "permission": {
+      "type": "day"
+    }
+  },
+  {
+    "username": "day002",
+    "password": "222222",
+    "permission": {
+      "type": "day"
+    }
+  }
+]
